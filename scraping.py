@@ -46,7 +46,6 @@ for website in articles_list:
 
 pdf.output("Zerodha.pdf")
 
-print("done")
 
 
 
